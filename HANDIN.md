@@ -26,7 +26,6 @@ You are welcome to use your own project and set it up with the process described
 - (Individual) A description of your pipeline, and any problems that you run into during development
 - (Individual) A description on how you would make sure that master only have commits that have been tested by the CI server
 
-
 # Links
 
 - Jenkins - <http://104.155.56.49:8080/job/ca-project/>
